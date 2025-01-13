@@ -23,4 +23,13 @@ Este é o back-end do projeto **YOLO Coliving**, desenvolvido com **NestJS** par
 - **Axios** (consumo de APIs)
 - **@aws-sdk/client-dynamodb** (SDK oficial da AWS para DynamoDB)
 
+---
+
+## 📧 Contato
+Se tiver dúvidas ou sugestões, entre em contato:
+
+- Email: icavalcantimoura@gmail.com
+- <a href="https://www.linkedin.com/in/igor-cavalcanti-moura/">Linkedin</a>
+
+
 
